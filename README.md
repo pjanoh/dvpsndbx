@@ -1,5 +1,7 @@
 # Terraform gitignore
 
+This file was modified also using Idea editors and Git Tool.
+
 ## Ignored folders
 The following will be ignored in terraform folder:
 * All files/folders in folderS with .terraform name
